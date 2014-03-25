@@ -1,4 +1,4 @@
 Classless
 =========
 
-Type synonyms which all for class-like generalizations in Elm
+Type synonyms which alllow for class-like generalizations in Elm
